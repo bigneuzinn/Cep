@@ -1,0 +1,41 @@
+h1 {
+    margin-left: 830px;
+    color: rgb(255, 255, 255);
+}
+
+h2 {
+    margin-left: 550px;
+    color: white;
+}
+
+fieldset {
+    position: relative;
+    border-radius: 100px;
+    margin-top: 50px;
+    margin-left: 320px;
+    height: 700px;
+    margin-right: 200px;
+}
+
+legend {
+    margin-left: 600px;
+    color: white;
+}
+
+label {
+
+    color: white;
+    margin-left: 500px;
+
+}
+
+img {
+    width: 200px;
+    margin-top: 100px;
+    margin-left: 530px;
+}
+
+
+
+
+
